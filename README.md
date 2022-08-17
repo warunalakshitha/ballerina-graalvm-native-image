@@ -3,8 +3,9 @@ This repository contains scripts required for generate GraalVM native images for
 
 ## Get Start
 
-1. Clone the repository
-2. Execute the native-image.sh with providing the ballerina package path.
+1. Download and Set up Graalvm https://www.graalvm.org/java/quickstart/
+2. Clone the repository
+3. Execute the native-image.sh with providing the ballerina package path.
 
 ```bash
 sh native-image.sh /Users/waruna/ballerina/packages/helloService
@@ -72,7 +73,7 @@ Produced artifacts:
 ========================================================================================================================
 Finished generating 'helloService' in 3m 0s.
 ```
-3. Now call the generated executable file .
+4. Now call the generated executable file .
 
 ```bash
 ./helloService
