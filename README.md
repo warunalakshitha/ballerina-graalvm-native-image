@@ -7,7 +7,7 @@ This repository contains scripts required for generate GraalVM native images for
 2. Execute the native-image.sh with providing the ballerina package path.
 
 ```bash
-ex. sh native-image.sh /Users/waruna/ballerina/packages/helloService
+sh native-image.sh /Users/waruna/ballerina/packages/helloService
 ```
 
 ```bash
