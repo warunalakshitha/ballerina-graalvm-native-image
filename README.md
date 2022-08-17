@@ -73,3 +73,9 @@ Produced artifacts:
 ========================================================================================================================
 Finished generating 'helloService' in 3m 0s.
 ```
+3. Now call the generated executable file .
+
+```
+./helloService
+```
+
