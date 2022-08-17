@@ -3,7 +3,7 @@ This repository contains scripts required for generate GraalVM native images for
 
 ## Get Start
 
-1. Checkout the repository
+1. Clone the repository
 2. Execute the graalvm-native-image.sh with providing the ballerina package path.
 
 ```bash
