@@ -9,7 +9,6 @@ This repository contains scripts required for generate GraalVM native images for
 ```bash
 ex. graalvm-native-image.sh /Users/waruna/ballerina/packages/helloService
 ```
-*Output*
 
 ```
 Compiling source
