@@ -1,10 +1,10 @@
 # Ballerina Graalvm Native Image
 This repository contains scripts required for generate GraalVM native images for Ballerina programs.
 
-# Get Start
+## Get Start
 
-Step 1 : Checkout the repository
-Step 2 : Execute the graalvm-native-image.sh with providing the ballerina package path.
+1. Checkout the repository
+2. Execute the graalvm-native-image.sh with providing the ballerina package path.
 
 ```bash
 ex. graalvm-native-image.sh /Users/waruna/ballerina/packages/helloService
